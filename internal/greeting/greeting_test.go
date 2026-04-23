@@ -3,7 +3,7 @@ package greeting_test
 import (
 	"testing"
 
-	"github.com/pboyd/hello/internal/greeting"
+	"github.com/pboyd/greet/internal/greeting"
 )
 
 func TestMessage(t *testing.T) {

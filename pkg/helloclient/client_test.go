@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/pboyd/hello/pkg/helloclient"
+	"github.com/pboyd/greet/pkg/helloclient"
 )
 
 func TestClientHelloServerError(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/pboyd/hello/internal/greeting"
+	"github.com/pboyd/greet/internal/greeting"
 )
 
 func TestHandler(t *testing.T) {

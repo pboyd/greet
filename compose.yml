@@ -1,5 +1,5 @@
 services:
   hello:
-    image: ghcr.io/pboyd/hello:latest
+    image: ghcr.io/pboyd/greet:latest
     ports:
       - "9000:8080"
